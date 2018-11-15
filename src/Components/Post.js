@@ -28,7 +28,7 @@ render(){
                     </div>
                 </div>
     ) : (
-        <div className= "center">Loading post...</div>
+        <div className= "center">Loading posts...</div>
     )
 
     return(
